@@ -1,0 +1,12 @@
+
+Help Center (list of commands to be used)
+a. cd<directory> - Change the current default directory to <directory>
+b. clr - Clear screen
+c. dir<directory> - List the contents of directory
+d. environ - List all environment strings
+e. echo - Display <comment> on the display followed by a new line
+f. help - displays user's manual using more filter
+g. pause - Pause operation of the shell until 'Enter' is pressed
+h. exit - Quit the shell
+
+Type in command and hit enter
